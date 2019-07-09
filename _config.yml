@@ -3,7 +3,7 @@
 #
 
 # Remote Theme
-remote_theme: "mmistakes/minimal-mistakes@4.16.4"
+remote_theme: mmistakes/minimal-mistakes
 
 # Name of your site (displayed in the header)
 name: Justin Carver
